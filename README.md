@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sümeyye</h1>
 <h3 align="center">I'm computer engineering stundet t Cukurova University</h3>
 
-- 🌱 I’m currently learning **Laravel,PHP**
+- 🌱 I’m currently learning **PHP**
 
 - 📫 How to reach me **https://www.linkedin.com/in/sumeyyeburan/**
 
