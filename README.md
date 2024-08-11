@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sümeyye</h1>
-<h3 align="center">I'm computer engineering stundet t Cukurova University</h3>
+<h3 align="center">I'm computer engineering student at Cukurova University</h3>
 
 - 🌱 I’m currently learning **PHP**
 
