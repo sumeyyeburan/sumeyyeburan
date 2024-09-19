@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sümeyye</h1>
 <h3 align="center">I'm computer engineering student at Cukurova University</h3>
 
-**🌱 I am currently learning web development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
