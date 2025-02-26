@@ -21,7 +21,7 @@ height="40"/> </a>
 </p>
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumeyyeburan&theme=dark&layout=compact&langs_count=8"  alt="Sumeyye's GitHub stats" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumeyyeburan&theme=dark&layout=compact&langs_count=10"  alt="Sumeyye's GitHub stats" />
 </p>
 
 <p align="center">
